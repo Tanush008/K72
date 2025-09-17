@@ -15,7 +15,7 @@ const HomeHeroText = () => {
                     </div>
                     génère
                 </div>
-                <div className='lg:text-[9.5vw] text-[12vw] justify-center flex items-center uppercase lg:leading-[8vw] leading-[10vw]'>
+                <div className='lg:text-[9.3vw] text-[12vw] justify-center flex items-center uppercase lg:leading-[8vw] leading-[10vw]'>
                     la créativité
                 </div>
             </div>
