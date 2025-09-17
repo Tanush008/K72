@@ -52,7 +52,7 @@ const Agence = () => {
         <>
             <div className='parent text-black'>
                 <div className='section1 py-1'>
-                    {/* image above the text */}
+
                     <div
                         ref={imageDivRef}
                         className="absolute lg:h-[20vw] h-[25vw] overflow-hidden lg:rounded-3xl rounded-xl lg:top-96 -top-90  lg:w-[16vw] w-[25vw] lg:left-[30vw] left-[30vw]">
@@ -63,7 +63,6 @@ const Agence = () => {
                             alt=""
                         />
                     </div>
-                    {/* text */}
                     <div className='relative font-[font2] text-center'>
                         <div className=' lg:mt-[59vh] mt-[30vh]'>
                             <h1 className='uppercase text-[17vw] leading-[17vw]'>
