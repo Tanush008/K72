@@ -20,6 +20,7 @@ This project replicates the sleek style of premium creative agencies like K72, f
 ✔️ Fast dev environment with Vite
 
 ✔️ Zero backend — pure frontend project
+
 | Technology            | Purpose                   |
 | --------------------- | ------------------------- |
 | **React**             | Component-based UI        |
@@ -27,30 +28,25 @@ This project replicates the sleek style of premium creative agencies like K72, f
 | **JavaScript (ES6+)** | Logic + interactivity     |
 | **CSS**               | Styling & layout          |
 | **Vercel**            | Deployment                |
-📁 Project Structure
 
+```txt
 K72/
-├── public/               
+├── public/
 │   ├── favicon.svg
 │   └── vite.svg
 ├── src/
-│   ├── assets/           
-│   ├── components/       
+│   ├── assets/
+│   ├── components/
 │   │   ├── Hero.jsx
 │   │   ├── Navbar.jsx
 │   │   ├── Footer.jsx
 │   │   └── ...
-│   ├── App.jsx           
-│   ├── index.css         
-│   ├── main.jsx          
-│   └── ...
+│   ├── index.css
+│   ├── main.jsx
+│   └── App.jsx
 ├── .gitignore
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
-
-
-
-
-
+```
