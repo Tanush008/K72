@@ -1,12 +1,56 @@
-# React + Vite
+🌟 K72 – Creative Agency Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, ultra-minimal, fully responsive creative agency landing page built using React and Vite.
+This project replicates the sleek style of premium creative agencies like K72, focusing on bold typography, clean layout, and a smooth user experience.
 
-Currently, two official plugins are available:
+🌐 Live Demo: https://k72-y6c4.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+✔️ Fully responsive (mobile → desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔️ Modern creative-agency layout
+
+✔️ Smooth scrolling behavior
+
+✔️ Reusable, clean React components
+
+✔️ Minimal & elegant UI
+
+✔️ Fast dev environment with Vite
+
+✔️ Zero backend — pure frontend project
+| Technology            | Purpose                   |
+| --------------------- | ------------------------- |
+| **React**             | Component-based UI        |
+| **Vite**              | Fast bundler & dev server |
+| **JavaScript (ES6+)** | Logic + interactivity     |
+| **CSS**               | Styling & layout          |
+| **Vercel**            | Deployment                |
+📁 Project Structure
+
+K72/
+├── public/               
+│   ├── favicon.svg
+│   └── vite.svg
+├── src/
+│   ├── assets/           
+│   ├── components/       
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   └── ...
+│   ├── App.jsx           
+│   ├── index.css         
+│   ├── main.jsx          
+│   └── ...
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+
+
+
